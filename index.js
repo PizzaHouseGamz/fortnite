@@ -1,6 +1,6 @@
-const Server = require('bare-server-node');
-const http = require('http');
-const nodeStatic = require('node-static');
+const Server = import('bare-server-node');
+const http = import('http');
+const nodeStatic = import('node-static');
 
 
 const bare =  new Server('/bare/', '');
