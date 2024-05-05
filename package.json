@@ -4,7 +4,6 @@
     "node-static": "^0.7.11"
   },
   "name": "uv-app",
-  "type": "module",
   "version": "1.0.0",
   "description": "Ultraviolet instance",
   "main": "index.js",
