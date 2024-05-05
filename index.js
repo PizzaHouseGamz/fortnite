@@ -1,3 +1,3 @@
 (async() => {
-  await import './index.mjs'
+  await require('./index.mjs')
 })();
